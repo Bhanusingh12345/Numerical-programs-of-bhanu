@@ -1,1 +1,3 @@
-# Numerical-programs-of-bhanu
+BHANU SINGH
+23CS-14
+BSC. CS(2nd year)
